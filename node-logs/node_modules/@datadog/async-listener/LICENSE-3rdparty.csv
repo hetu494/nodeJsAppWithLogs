@@ -1,0 +1,4 @@
+Component,Origin,License,Copyright
+require,shimmer,BSD-2-Clause,Copyright Forrest L Norvell
+require,semver,ISC,Copyright Isaac Z. Schlueter and Contributors
+dev,tap,ISC,Copyright Isaac Z. Schlueter and Contributors
